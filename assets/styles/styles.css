@@ -1,0 +1,43 @@
+body {
+    background-color: pink;
+    color: maroon;
+    font-family: cursive;
+    font-size: 20px;
+    /* background-image: url('../images/heart-bg.jpeg'); */
+    /* comment! */ 
+    text-align: center;
+}
+
+section {
+    background-color: lightcoral;
+    margin: auto 10%;
+    padding: 30px;
+    border-color: maroon;
+    border-style: dotted;
+    border-width: 5px;
+    border-radius: 10px; 
+}
+
+form {
+    background-color: firebrick;
+    color: beige;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+em {
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 80px;
+    color: red;
+}
+
+.css {
+    color: beige;
+}
+
+.html {
+    color: pink;
+}
